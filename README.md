@@ -1,3 +1,5 @@
+![badge](https://david-dm.org/AvinashDhillor/markdown-previewer.svg)
+
 ### `npm install && npm start`
 
 Runs the app in the development mode.<br>
