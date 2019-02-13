@@ -1,4 +1,5 @@
 ![badge](https://david-dm.org/AvinashDhillor/markdown-previewer.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/AvinashDhillor/markdown-previewer/badge.svg)](https://snyk.io/AvinashDhillor/markdown-previewer)
 
 ### `npm install && npm start`
 
